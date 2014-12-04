@@ -1,0 +1,24 @@
+{
+  "name": "reactjs-image-upload",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^7.0.0",
+    "busboy": "^0.2.9",
+    "connect-busboy": "0.0.2",
+    "ejs": "^1.0.0",
+    "express": "^4.10.4",
+    "gulp": "^3.8.10",
+    "nodemon": "^1.2.1",
+    "react": "^0.12.1",
+    "superagent": "^0.21.0",
+    "vinyl-source-stream": "^1.0.0",
+    "watchify": "^2.1.1"
+  }
+}
